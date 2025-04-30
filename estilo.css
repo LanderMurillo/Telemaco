@@ -1,0 +1,20 @@
+div.a{
+border:solid;
+border-color:black;
+width:20%;
+height:20%;
+position:absolute;
+top:50%;
+left:50%;
+}
+
+
+div.b{
+    border:solid;
+    border-color:black;
+    width:20%;
+    height:20%;
+    position:absolute;
+    top:0%;
+    left:50%;
+}
